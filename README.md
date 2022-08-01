@@ -67,6 +67,7 @@ My personal curated list of interesting things
 * https://github.com/ekzhang/bore
 
 ## libs
+* https://github.com/samber/do - A dependency injection toolkit based on Go 1.18+ Generics
 * https://github.com/puzpuzpuz/xsync
 * https://levelup.gitconnected.com/grpc-basics-part-2-rest-and-swagger-53ec2417b3c4
 * https://github.com/jmxtrans/jmxtrans.github.io
