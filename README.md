@@ -91,7 +91,8 @@ My personal curated list of interesting things
 * https://github.com/twmb/franz-go
 * https://github.com/autom8ter/machine
 * https://github.com/goccy/go-json
-* https://github.com/halturin/ergo#examples
+* https://github.com/bytedance/sonic
+* https://github.com/halturin/ergo
 * https://github.com/godruoyi/go-snowflake
 * https://github.com/testcontainers/testcontainers-go
 * https://github.com/antonmedv/expr
