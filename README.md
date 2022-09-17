@@ -24,7 +24,7 @@ My personal curated list of interesting things
 * https://github.com/HyNetwork/hysteria
 * https://helix-editor.com/
 * https://www.hypertrace.org/#Why-trace
-* https://github.com/neondatabase/neon
+* https://github.com/neondatabase/neon - serverless postgres
 * https://dragonflydb.io/
 * https://rapidocweb.com/index.html
 * https://github.com/pressly/goose
@@ -53,6 +53,8 @@ My personal curated list of interesting things
 * https://github.com/StackStorm/st2
 * https://github.com/firezone/firezone
 * https://github.com/dgtlmoon/changedetection.io
+* https://github.com/authzed/spicedb - RBAC/ABAC server
+* https://github.com/immich-app - backup for mobile
 
 ## services
 * https://www.cloudskew.com/
@@ -65,6 +67,7 @@ My personal curated list of interesting things
 * https://sizzy.co/
 * https://getsturdy.com/pricing
 * https://github.com/ekzhang/bore
+* https://penpot.app/ - Figma but free
 
 ## libs
 * https://github.com/samber/do - A dependency injection toolkit based on Go 1.18+ Generics
@@ -114,6 +117,8 @@ My personal curated list of interesting things
 * https://operatorhub.io/
 * https://coreui.io/
 * https://www.btw.so/open-source-alternatives/
+* https://osgameclones.com/
+* https://chillout.zone/radio/chillin - lossless chillout radio
 
 ## info
 * https://github.com/joshbuchea/HEAD
