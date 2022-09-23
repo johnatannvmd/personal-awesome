@@ -112,6 +112,7 @@ My personal curated list of interesting things
 * https://github.com/pressly/goose
 * https://github.com/Quiq/webauthn_proxy
 * https://github.com/ecoshub/stable
+* https://github.com/dominikbraun/graph - graph lib
 
 ## sites
 * https://operatorhub.io/
