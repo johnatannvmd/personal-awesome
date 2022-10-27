@@ -55,6 +55,10 @@ My personal curated list of interesting things
 * https://github.com/dgtlmoon/changedetection.io
 * https://github.com/authzed/spicedb - RBAC/ABAC server
 * https://github.com/immich-app - backup for mobile
+* https://github.com/megaease/easegress - A Cloud Native traffic orchestration system (nginx on steroids)
+* https://github.com/vesoft-inc/nebula - A distributed graph database 
+* https://github.com/ToolJet/ToolJet - lowcode app constructor
+* https://github.com/coroot/coroot - monitoring and troubleshooting tool for microservice architectures (looks like sentry + metrics)
 
 ## services
 * https://www.cloudskew.com/
@@ -71,6 +75,10 @@ My personal curated list of interesting things
 
 ## libs
 * https://github.com/samber/do - A dependency injection toolkit based on Go 1.18+ Generics
+* https://github.com/jackc/puddle/pull/24/files#diff-7a21f7ad4e9c37c3a64bc47e3127d3afb4df5091a2019c89681139dda90e0d6e - generational stack
+* https://github.com/avast/retry-go - Simple golang library for retry mechanism
+* https://github.com/nuxui/nuxui - XPlatform UI: IOS, Android, macOS, Windows, Linux (uses own renderer)
+* https://github.com/kubeshop/tracetest - brain expolsion tool for tracing distributed apps
 * https://github.com/puzpuzpuz/xsync
 * https://levelup.gitconnected.com/grpc-basics-part-2-rest-and-swagger-53ec2417b3c4
 * https://github.com/jmxtrans/jmxtrans.github.io
@@ -130,8 +138,15 @@ My personal curated list of interesting things
 * https://gist.github.com/protosam/0d263bba98d45601df022b70ef308dbf
 * https://habr.com/ru/company/flant/blog/651867/
 * https://levelup.gitconnected.com/grpc-basics-part-2-rest-and-swagger-53ec2417b3c4
+* https://articles.wesionary.team/authorization-in-golang-projects-using-casbin-f8fad744dae5 - abac/rbac integration
 
 ## design
 * https://uigarage.net/ui-kit/category/dashboard/
 * https://github.com/ivbeg/awesome-status-pages
 * https://github.com/hectorm/docker-qemu-win2000
+
+## ESP32
+* https://gitlab.com/mutantC - watches and computer
+* https://hackaday.io/project/12876-chronio - watch ala pebble
+* https://github.com/nkolban/esp32-snippets/tree/master/cpp_utils - some snippets
+* https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/BLE_write/BLE_write.ino - ESP32-C3 lcd examples
