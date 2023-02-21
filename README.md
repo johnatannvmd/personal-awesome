@@ -18,7 +18,7 @@ My personal curated list of interesting things
 * https://github.com/apache/incubator-superset
 * https://github.com/earthly/earthly
 * https://k0sproject.io/
-* https://github.com/temporalio/temporal
+* https://github.com/temporalio/temporal - лямбды для бедных
 * https://github.com/hyprwm/Hyprland
 * https://docs.mitmproxy.org/stable/
 * https://github.com/HyNetwork/hysteria
