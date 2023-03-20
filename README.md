@@ -150,3 +150,25 @@ My personal curated list of interesting things
 * https://hackaday.io/project/12876-chronio - watch ala pebble
 * https://github.com/nkolban/esp32-snippets/tree/master/cpp_utils - some snippets
 * https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/BLE_write/BLE_write.ino - ESP32-C3 lcd examples
+
+## notes
+* about RSA
+  ```
+  do u know why golang not provide public key decrypt and private key encrypt ?
+
+  The end result of creating an RSA key is to produce the tuple of numbers (n,d,e). The private key is (n,d), and the public key is (n,e). Even though e is called "encrypt", and d is called "decrypt"; that is just a shorthand. More accurately...
+
+  (n,e) - public operations ... Verify, Encrypt, because neither of these things require a secret.
+  (n,d) - private operations ... Sign, Decrypt, because both of these require a secret.
+  Sign is the inverse of Verify
+  Decrypt is the inverse of Verify
+  And be really careful to note that e isn't just "public". It's a small, well-known constant! This is not obvious when you read algebra that explains what RSA does. But somebody needs to tell you what n is to use it with e. Once you have the *big.Int values of (n,d,e), it really is as simple as:
+
+  ciphertext = mod_n(plaintext^e)
+  plaintext = mod_n(ciphertext^d)
+
+  msghash = Hash(message)
+  signature = mod_n(msghash^d)
+  msghash = mod_n(signature^e)
+  It is just a matter of whether you apply e or d first. You can't RSA encrypt anything large, so you usually only encrypt keys, or sign hashes. The values being signed or encrypted need to be smaller than n, because in the end they are taken mod_n.
+```
