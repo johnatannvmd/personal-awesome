@@ -59,6 +59,8 @@ My personal curated list of interesting things
 * https://github.com/vesoft-inc/nebula - A distributed graph database 
 * https://github.com/ToolJet/ToolJet - lowcode app constructor
 * https://github.com/coroot/coroot - monitoring and troubleshooting tool for microservice architectures (looks like sentry + metrics)
+* https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD - Windows ~~fucker~~ script collection
+* https://vb-audio.com/Voicemeeter/index.htm - Windows virtual mixwer
 
 ## services
 * https://www.cloudskew.com/
