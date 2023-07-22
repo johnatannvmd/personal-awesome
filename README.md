@@ -79,7 +79,7 @@ My personal curated list of interesting things
 * https://github.com/avast/retry-go - Simple golang library for retry mechanism
 * https://github.com/nuxui/nuxui - XPlatform UI: IOS, Android, macOS, Windows, Linux (uses own renderer)
 * https://github.com/kubeshop/tracetest - brain expolsion tool for tracing distributed apps
-* https://github.com/puzpuzpuz/xsync
+* https://github.com/puzpuzpuz/xsync - Concurrent data structures for Go
 * https://levelup.gitconnected.com/grpc-basics-part-2-rest-and-swagger-53ec2417b3c4
 * https://github.com/jmxtrans/jmxtrans.github.io
 * https://github.com/salesforce/generic-sidecar-injector
@@ -96,10 +96,10 @@ My personal curated list of interesting things
 * https://github.com/josuebrunel/clausify
 * https://github.com/buraksezer/olric
 * https://github.com/ccssmnn/hego
-* https://github.com/tylertreat/comcast
+* https://github.com/tylertreat/comcast - Simulating shitty network connections
 * https://dev.ms/2021/01/ragel-state-machine-compiler/
 * https://github.com/casbin/casbin
-* https://github.com/twmb/franz-go
+* https://github.com/twmb/franz-go - Go native Kafka client
 * https://github.com/autom8ter/machine
 * https://github.com/goccy/go-json
 * https://github.com/bytedance/sonic
@@ -117,7 +117,7 @@ My personal curated list of interesting things
 * https://github.com/tidwall/uhaha
 * https://github.com/ToolJet/ToolJet
 * https://github.com/alecthomas/participle
-* https://github.com/pressly/goose
+* https://github.com/pressly/goose - migrations
 * https://github.com/Quiq/webauthn_proxy
 * https://github.com/ecoshub/stable
 * https://github.com/dominikbraun/graph - graph lib
@@ -150,6 +150,8 @@ My personal curated list of interesting things
 * https://hackaday.io/project/12876-chronio - watch ala pebble
 * https://github.com/nkolban/esp32-snippets/tree/master/cpp_utils - some snippets
 * https://github.com/01Space/ESP32-C3-0.42LCD/blob/main/BLE_write/BLE_write.ino - ESP32-C3 lcd examples
+* https://github.com/sbrin/lopaka - UI constructor for U8g2
+* https://github.com/olikraus/u8g2 - UI lib for monochrome displays
 
 ## notes
 * about RSA
