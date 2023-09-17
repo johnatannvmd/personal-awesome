@@ -123,6 +123,7 @@ My personal curated list of interesting things
 * https://github.com/Quiq/webauthn_proxy
 * https://github.com/ecoshub/stable
 * https://github.com/dominikbraun/graph - graph lib
+* https://github.com/lotusdblabs/lotusdb - Most advanced key-value store written in Go. Embedable
 
 ## sites
 * https://operatorhub.io/
