@@ -2,57 +2,49 @@
 My personal curated list of interesting things
 
 ## soft
-* https://github.com/slackhq/nebula/
-* https://github.com/luraproject/lura
-* https://github.com/squzy/squzy/blob/develop/apps/agent/config/config.go
-* https://wtfutil.com/
-* https://tabix.io/
-* https://github.com/disneystreaming/ssm-helpers/blob/master/README.md
-* https://github.com/semrush/purr
-* https://statusbay.io/
-* https://github.com/databricks/click
-* https://popeyecli.io/
-* https://github.com/reviewdog/reviewdog
-* https://github.com/abraunegg/onedrive/blob/master/docs/USAGE.md
-* https://backstage.io/
-* https://github.com/apache/incubator-superset
-* https://github.com/earthly/earthly
-* https://k0sproject.io/
+* https://github.com/slackhq/nebula/ - Nebula is an overlay networking tool
+* https://github.com/luraproject/lura - API Gateway with middlewares
+* https://github.com/squzy/squzy - monitoring, incident and alert system
+* https://wtfutil.com/ - personal information dashboard for your terminal
+* https://tabix.io/ - SQL Editor & Open source simple business intelligence for Clickhouse
+* https://github.com/semrush/purr - Devops-friendly tool for browser testing and monitoring
+* https://statusbay.io/ - tool that send notifications against k8s deployment
+* https://github.com/databricks/click - repl for kubectl
+* https://popeyecli.io/ - A Kubernetes Cluster Sanitizer
+* https://github.com/reviewdog/reviewdog - review tool integrated with any code analysis tools
+* https://backstage.io/ - platform for building developer portals
+* https://github.com/apache/incubator-superset - Data Visualization and Data Exploration Platform
+* https://github.com/earthly/earthly - build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile
+* https://k0sproject.io/ - The Simple, Solid & Certified Kubernetes Distribution
 * https://github.com/temporalio/temporal - лямбды для бедных
-* https://github.com/hyprwm/Hyprland
-* https://docs.mitmproxy.org/stable/
-* https://github.com/HyNetwork/hysteria
-* https://helix-editor.com/
-* https://www.hypertrace.org/#Why-trace
+* https://github.com/hyprwm/Hyprland - tiling Wayland compositor
+* https://docs.mitmproxy.org/stable/ - SSL/TLS-capable intercepting proxy for HTTP/1, HTTP/2, and WebSockets
+* https://github.com/HyNetwork/hysteria - censorship resistant proxy
+* https://helix-editor.com/ - post-modern text editor
+* https://www.hypertrace.org/ - distributed tracing & observability platform
 * https://github.com/neondatabase/neon - serverless postgres
-* https://dragonflydb.io/
-* https://rapidocweb.com/index.html
-* https://github.com/pressly/goose
-* https://github.com/pocketbase/pocketbase
-* https://github.com/alexhuntley/Plots
-* https://github.com/cossacklabs/acra
-* https://boop.okat.best/
-* https://github.com/MetalBlueberry/chkb
-* https://github.com/mvdan/sh
-* https://taskfile.dev/#/
-* https://github.com/spectralops/teller
-* https://github.com/jstaf/onedriver
-* https://www.meilisearch.com/
-* https://handsontable.github.io/hyperformula/#what-is-hyperformula
-* https://github.com/mozilla/sops
-* https://github.com/Shopify/toxiproxy/tree/master/client
-* https://github.com/Clivern/Peanut
-* https://github.com/Huseyinnurbaki/mocktail
-* https://docs.earthly.dev/
-* https://lakefs.io/
-* https://tauri.studio/
-* https://cashapp.github.io/hermit/usage/get-started/
-* https://github.com/Budibase/budibase
-* https://github.com/dagger/dagger
-* https://github.com/loft-sh/vcluster
-* https://github.com/StackStorm/st2
-* https://github.com/firezone/firezone
-* https://github.com/dgtlmoon/changedetection.io
+* https://dragonflydb.io/ - Dragonfly is a drop-in Redis replacement
+* https://rapidocweb.com/index.html - OpenAPI Spec Documentations
+* https://github.com/pressly/goose - nice migration framework
+* https://github.com/pocketbase/pocketbase - realtime backend in 1 file and sqlite
+* https://github.com/cossacklabs/acra - database security suite for sensitive and personal data protection
+* https://github.com/mvdan/sh - shell parser, formatter, and interpreter
+* https://taskfile.dev/ - task runner / build tool
+* https://github.com/spectralops/teller - secrets management for developers
+* https://www.meilisearch.com/ - search engine
+* https://handsontable.github.io/hyperformula/ - headless spreadsheet
+* https://github.com/mozilla/sops - tool for managing secrets
+* https://github.com/Shopify/toxiproxy - A TCP proxy to simulate network
+* https://github.com/Clivern/Peanut - Deploy Databases and Services Easily for Development and Testing Pipelines
+* https://lakefs.io/ - Scalable Data Version Control
+* https://tauri.studio/ - electron but nicer
+* https://cashapp.github.io/hermit/usage/get-started/ - isolated, self-bootstrapping sets of tools in software projects
+* https://github.com/Budibase/budibase - Low code platform for creating internal tools, workflows, and admin panels
+* https://github.com/dagger/dagger - programmable CI/CD engine that runs your pipelines in containers
+* https://github.com/loft-sh/vcluster - vcluster runs inside a namespace of the underlying k8s cluster
+* https://github.com/StackStorm/st2 - platform for integration and automation across services and tools
+* https://github.com/firezone/firezone - wireguard VPN
+* https://github.com/dgtlmoon/changedetection.io - website change detection
 * https://github.com/authzed/spicedb - RBAC/ABAC server
 * https://github.com/immich-app - backup for mobile
 * https://github.com/megaease/easegress - A Cloud Native traffic orchestration system (nginx on steroids)
