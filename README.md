@@ -163,7 +163,6 @@ My personal curated list of interesting things
 
 ## notes
 * about RSA
-  ```
   do u know why golang not provide public key decrypt and private key encrypt ?
 
   The end result of creating an RSA key is to produce the tuple of numbers (n,d,e). The private key is (n,d), and the public key is (n,e). Even though e is called "encrypt", and d is called "decrypt"; that is just a shorthand. More accurately...
@@ -181,4 +180,3 @@ My personal curated list of interesting things
   signature = mod_n(msghash^d)
   msghash = mod_n(signature^e)
   It is just a matter of whether you apply e or d first. You can't RSA encrypt anything large, so you usually only encrypt keys, or sign hashes. The values being signed or encrypted need to be smaller than n, because in the end they are taken mod_n.
-```
