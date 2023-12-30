@@ -53,6 +53,11 @@ My personal curated list of interesting things
 * https://github.com/coroot/coroot - monitoring and troubleshooting tool for microservice architectures (looks like sentry + metrics)
 * https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD - Windows ~~fucker~~ script collection
 * https://vb-audio.com/Voicemeeter/index.htm - Windows virtual mixwer
+* https://github.com/GopeedLab/gopeed - downloader with go and flutter
+* https://github.com/GreptimeTeam/greptimedb - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported
+* https://github.com/navidrome/navidrome - Modern Music Server and Streamer compatible with Subsonic/Airsonic
+* https://github.com/turbot/steampipe - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required
+* https://github.com/duckdb/duckdb - DuckDB is an in-process SQL OLAP Database Management System (C++)
 
 ## services
 * https://www.cloudskew.com/
@@ -66,6 +71,8 @@ My personal curated list of interesting things
 * https://getsturdy.com/pricing
 * https://github.com/ekzhang/bore
 * https://penpot.app/ - Figma but free
+* https://text-to-diagram.com/
+* https://cashapp.github.io/hermit/ - Hermit manages isolated, self-bootstrapping sets of tools in software projects
 
 ## libs
 * https://github.com/samber/do - A dependency injection toolkit based on Go 1.18+ Generics
@@ -116,6 +123,10 @@ My personal curated list of interesting things
 * https://github.com/ecoshub/stable
 * https://github.com/dominikbraun/graph - graph lib
 * https://github.com/lotusdblabs/lotusdb - Most advanced key-value store written in Go. Embedable
+* https://github.com/oklog/ulid - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+* https://github.com/stakater/Reloader - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig
+* https://codeberg.org/gruf/go-store - a simple, highly perform key-value store with multiple storage backends (disk, memory, s3)
+* https://codeberg.org/gruf/go-runners - Provides a means a simple means of managing long-running functions and services
 
 ## sites
 * https://operatorhub.io/
@@ -126,7 +137,6 @@ My personal curated list of interesting things
 
 ## info
 * https://github.com/joshbuchea/HEAD
-* https://medium.com/hackernoon/build-your-own-oauth2-server-in-go-7d0f660732c3
 * http://postgresguide.com/
 * https://github.com/samber/awesome-prometheus-alerts/blob/master/README.md
 * https://madaidans-insecurities.github.io/guides/linux-hardening.html
@@ -139,6 +149,9 @@ My personal curated list of interesting things
 * https://uigarage.net/ui-kit/category/dashboard/
 * https://github.com/ivbeg/awesome-status-pages
 * https://github.com/hectorm/docker-qemu-win2000
+
+## frontend
+* https://github.com/vuejs/petite-vue
 
 ## ESP32
 * https://gitlab.com/mutantC - watches and computer
